@@ -47,4 +47,4 @@ I will be grateful for any help you can provide to make this project better
 
 ## License
 
-numeroljs is released under the [MIT] license.
+numeroljs is released under the [MIT](LICENSE) license.
