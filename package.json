@@ -1,0 +1,23 @@
+{
+  "name": "numeroljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexagep/convert-shamsi-to-miladi-npm.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ali Aghapour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexagep/convert-shamsi-to-miladi-npm.git/issues"
+  },
+  "homepage": "https://github.com/alexagep/convert-shamsi-to-miladi-npm.git#readme",
+  "dependencies": {
+    "jalali-moment": "^3.3.11"
+  }
+}
