@@ -24,7 +24,7 @@ you can use this library for calculation in persian or gregorian dates, it conve
 var numerol = require('numeroljs');
 
 numerol.inPersian('1368/03/01');
-numerol.calculateNumerology('1989/05/22');
+numerol.calculateNumerology('1989/05/22'); // outputs
 ```
 
 either you can write in american format
