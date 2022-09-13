@@ -1,15 +1,13 @@
 'use strict';
 
-import * as numerol from '../../lib/index.js';
+import { Numeroljs } from '../../lib/index.js';
 
-/**
- * Old way of using
- */
-numerol.numerolinPersian('1368/03/01');
-numerol.calculateNumerology('1989/05/22');
+
 
 /**
  * New interface:
  */
-const numerolInstance = new numerol.Numeroljs();
-numerolInstance.handle('1368/03/01', 'jalali');
+ const numerolInstance = new Numeroljs();
+
+ numerolInstance.handle('1989/01/06');
+ numerolInstance.handle('1371/08/03', 'jalali');
