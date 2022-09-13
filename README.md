@@ -48,7 +48,9 @@ console.log(numerolInstance.handle('1368-04-07', 'jalali')); // 7
 
 ## 🤝 Contribution
 
-I will be grateful for any help you can provide to make this project better
+I will be grateful for any help you can provide to make this project better.
+Thank you to all the people who already contributed to NumerolJS!
+[![Contributors](https://contrib.rocks/image?repo=alexagep/numerology-npm)](https://github.com/alexagep/numerology-npm/graphs/contributors)
 
 
 ## License
