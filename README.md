@@ -1,10 +1,12 @@
-# Form-Data [![NPM Module](https://img.shields.io/badge/NPM-V1.1.0-green)](https://github.com/alexagep/numerology-npm)
+# NumerolJS [![NPM Module](https://img.shields.io/badge/NPM-V1.1.0-green)](https://github.com/alexagep/numerology-npm)
 
 A library to convert birthdate to numerology number. Can be used to study of numbers, such as the figures in a birth date, and of their supposed influence on human affairs.
 
 
 
 ## Install
+
+For npm users:
 
 ```shell
 npm i numeroljs
